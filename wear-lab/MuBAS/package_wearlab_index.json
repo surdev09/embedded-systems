@@ -13,7 +13,7 @@
             "architecture": "arm",
             "version": "1.6.12",
             "category": "Contributed",
-            "url": "https://github.com/surdev09/embedded-systems/blob/5e40166a55eb8b86a4133b1ac3a5aa0bf7bc5a2c/wear-lab/MuBAS/ArduinoARM.zip",
+            "url": "https://github.com/surdev09/embedded-systems/blob/5e40166a55eb8b86a4133b1ac3a5aa0bf7bc5a2c/wear-lab/MuBAS/ArduinoARM.zip?raw=true",
             "archiveFileName": "ArduinoARM.zip",
             "checksum": "SHA-256:08E11273D64D6E9F4E154FB3C6B4112650E4D255B3825F226ECA6786AE9CF3AF",
             "size": "392413",
