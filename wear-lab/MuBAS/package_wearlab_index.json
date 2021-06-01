@@ -15,7 +15,7 @@
             "category": "Contributed",
             "url": "https://github.com/surdev09/embedded-systems/blob/main/wear-lab/MuBAS/ArduinoARM.zip?raw=true",
             "archiveFileName": "ArduinoARM.zip",
-            "checksum": "SHA256:46846FA62BDD4D04C1841FCAD093533D58233A309E6D5D59AA70A1133CA97403",
+            "checksum": "SHA-256:46846FA62BDD4D04C1841FCAD093533D58233A309E6D5D59AA70A1133CA97403",
             "size": "221184",
             "boards": [
               {
